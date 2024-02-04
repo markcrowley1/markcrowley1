@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👋 Hi, I'm Mark
+
+### About Me
+
+- Currently living in Dublin, Ireland.
+- Interested in Deep Learning projects involving Computer Vision, Generative AI and Reinforcement Learning.
+- Usually programming in Python, C++ and Java.
+- Connect with me on LinkedIn :smiley: <a href="https://www.linkedin.com/in/mark-crowley-1995541b8/"><img src="https://img.shields.io/badge/-Mark_Crowley-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,matlab,r,tensorflow,pytorch,mysql,aws,azure,docker)](https://skillicons.dev)
 
 <!--
 **markcrowley1/markcrowley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
