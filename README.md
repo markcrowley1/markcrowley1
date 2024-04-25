@@ -3,7 +3,7 @@
 ### About Me
 
 - Currently living in Dublin, Ireland.
-- Interested in Deep Learning projects involving Computer Vision, Generative AI and Reinforcement Learning.
+- Interested in applying deep learning to Computer Vision and Natural Language Processing projects.
 - Usually programming in Python, C++ and Java.
 - Connect with me on LinkedIn :smiley: <a href="https://www.linkedin.com/in/mark-crowley-1995541b8/"><img src="https://img.shields.io/badge/-Mark_Crowley-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 
