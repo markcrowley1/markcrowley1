@@ -2,12 +2,20 @@
 
 ### About Me
 
-- Currently living in Dublin, Ireland.
-- Interested in applying deep learning to Computer Vision and Natural Language Processing projects.
-- Usually programming in Python, C++ and Java.
+- Software Engineer at Qualtrics in Dublin, Ireland.
+- Usually programming in Go, Python, and Bash.
+- Experience with Docker, Jenkins, Gitlab CI, Spinnaker and Vault.
 - Connect with me on LinkedIn :smiley: <a href="https://www.linkedin.com/in/mark-crowley-1995541b8/"><img src="https://img.shields.io/badge/-Mark_Crowley-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,matlab,r,tensorflow,pytorch,mysql,aws,azure,docker)](https://skillicons.dev)
+### Projects & Areas of Interest
+- LLMs
+- Computer Vision
+- Compilers
+- Backend Web Dev
+- Security
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=go,python,c,bash,tensorflow,pytorch,mysql,aws,docker,jenkins,spinnaker)](https://skillicons.dev)
 
 <!--
 **markcrowley1/markcrowley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
