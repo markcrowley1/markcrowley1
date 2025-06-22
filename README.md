@@ -11,7 +11,7 @@
 ### My Areas of Interest
 - LLMs
 - Computer Vision
-- Compilers
+- Compilers & Interpreters
 - Backend Web Dev
 - Security
 
