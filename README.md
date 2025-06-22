@@ -15,7 +15,7 @@
 - Backend Web Dev
 - Security
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,c,bash,tensorflow,pytorch,mysql,aws,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,c,bash,mysql,tensorflow,pytorch,aws,docker,jenkins)](https://skillicons.dev)
 
 <!--
 **markcrowley1/markcrowley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
